@@ -7,6 +7,7 @@
 - [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Insights](#insights)
+- [Dashboard](#dashboard)
 - [Recommendations](#recommendations) 
 
 
@@ -63,6 +64,9 @@ Once preparation was done, it was time for exploration and analysis, as such, th
 4. **Total Quantity by Country:**  The map chart shows the regions that have generated the most revenue compared withthe regions that have not. It can be seen that apart from the UK, countries such as Netherlands,Ireland, Germany, France and Australia are generating high revenue and the company shouldinvest more in these areas to increase demand for products. The map also shows that most ofthe sales are only in the European region with very few in the American region. Africa and Asia do not have any demand for the products, along with Russia. A new strategy targeting these areas has the potential to boost sales revenues and profitability.The Country with the highest quantity is Netherland with the total of 200,937, while USA is the least with 2,458.
 
 ![Screenshot (416)](https://github.com/DanielOladipupo/TATA-Retail-Store-Analysis/assets/155446588/782e919c-4a50-4fa1-849a-e271f8c252ee)
+
+### Dashboard
+![Screenshot (435)](https://github.com/DanielOladipupo/TATA-Retail-Store-Analysis/assets/155446588/da97d97a-5e4f-4dc4-bf52-30980466f0f6)
 
 ### Recommendations
 - **Marketing Campaigns:** Given the significant increase in revenue from September to November, it is recommended to develop targeted marketing campaigns starting in late August. This will help capitalize on the seasonal uptick in sales.
