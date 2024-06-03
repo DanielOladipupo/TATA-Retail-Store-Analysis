@@ -66,7 +66,7 @@ Once preparation was done, it was time for exploration and analysis, as such, th
 ![Screenshot (416)](https://github.com/DanielOladipupo/TATA-Retail-Store-Analysis/assets/155446588/782e919c-4a50-4fa1-849a-e271f8c252ee)
 
 ### Dashboard
-![Screenshot (435)](https://github.com/DanielOladipupo/TATA-Retail-Store-Analysis/assets/155446588/da97d97a-5e4f-4dc4-bf52-30980466f0f6)
+![Screenshot (436)](https://github.com/DanielOladipupo/TATA-Retail-Store-Analysis/assets/155446588/e1b08fc5-a0c0-4441-b208-e8f13cad2300)
 
 ### Recommendations
 - **Marketing Campaigns:** Given the significant increase in revenue from September to November, it is recommended to develop targeted marketing campaigns starting in late August. This will help capitalize on the seasonal uptick in sales.
